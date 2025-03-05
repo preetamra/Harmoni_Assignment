@@ -48,6 +48,8 @@ npx expo start
 - For Android: Press `a` in the terminal
 - For iOS: Press `i` in the terminal
 
+![Demo](assets/demo.gif)
+
 ## Project Structure
 ```
 task-management-app/
